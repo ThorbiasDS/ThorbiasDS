@@ -10,8 +10,8 @@ My name is Tobias and here you find some things about me:
 
 <div>
   <a href="https://github.com/ThorbiasDS">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=ThorbiasDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorbiasDS&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=ThorbiasDS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorbiasDS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
