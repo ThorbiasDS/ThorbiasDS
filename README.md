@@ -3,7 +3,7 @@
 My name is Tobias and here you find some things about me:
 
 - 🖥 I'm a computer technician
-- 📚 I'm learning Vue
+- 📚 I'm learning Vue.js
 - 🎞 I'm Marvel fan
 - 🔨⚡ My nick is Thorbias
 - 😄 Pronouns: ele/dele
