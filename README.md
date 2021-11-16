@@ -1,12 +1,11 @@
 ### Hey Everyone 👋
 
-My name is Tobias and here you find some things about me:
+My name is Tobias and here you find somethings about me:
 
 - 🖥 I'm a computer technician
 - 📚 I'm learning Vue.js
 - 🎞 I'm Marvel fan
-- 🔨⚡ My nick is Thorbias
-- 😄 Pronouns: ele/dele
+- 🔨⚡ My nick is Thorbias Invernal
 
 <div>
   <a href="https://github.com/ThorbiasDS">
