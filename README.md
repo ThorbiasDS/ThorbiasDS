@@ -3,7 +3,6 @@
 My name is Tobias and here you find somethings about me:
 
 - 🖥 I'm a computer technician
-- 📚 I'm learning Vue.js
 - 🎞 I'm Marvel fan
 - 🔨⚡ My nick is Thorbias Invernal
 
