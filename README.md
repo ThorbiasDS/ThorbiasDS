@@ -10,6 +10,7 @@ Sigam-me!
   <br>
   <a href="https://github.com/julianasantiago100">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorbiasDS&layout=compact&langs_count=7&theme=dracula"/>
+  <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ThorbiasDS&show_icons=true&theme=radical"/>-->
 </div>
     
 #### Linguagens de programação conhecidas:
