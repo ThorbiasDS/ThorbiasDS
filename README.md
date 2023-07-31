@@ -7,7 +7,6 @@ Estou em busca de crescer na área de desenvolvimento front-end, mas aberto para
 
 Sigam-me!
 <div >
-  <br>
   <a href="https://github.com/ThorbiasDS">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorbiasDS&layout=compact&langs_count=7&theme=dracula"/>
   <!--<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ThorbiasDS&show_icons=true&theme=radical"/>-->
