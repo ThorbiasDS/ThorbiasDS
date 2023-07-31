@@ -1,6 +1,6 @@
 # Olá, galera!!!
 
-## Meu nome é Tobias, mas podem me chamar de Thorbias!
+## Meu nome é Tobias, mas podem me chamar de Thorbias! ⚡️
 
 Atualmente curso o Bacharelado em Tecnologia da Informação na UFRN e sou bolsista do Suporte de Redes N1 na STI da mesma instituição.
 Estou em busca de crescer na área de desenvolvimento front-end, mas aberto para conhecer outras áreas também.
