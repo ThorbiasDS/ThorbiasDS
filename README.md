@@ -1,11 +1,12 @@
-# Olá, galera!!!
+# Olá, pessoal!
 
 ## Meu nome é Tobias, mas podem me chamar de Thorbias! ⚡️
 
-Atualmente curso o Bacharelado em Tecnologia da Informação na UFRN e sou bolsista do Suporte de Redes N1 na STI da mesma instituição.
-Estou em busca de crescer na área de desenvolvimento front-end, mas aberto para conhecer outras áreas também.
+Atualmente sou aluno do Bacharelado em Tecnologia da Informação na UFRN.
+Também atuo como bolsista do Suporte de Redes N1 na Superintendência de Tecnologia da Informação dessa instituição.
+Estou em busca de crescer na área de administração Linux, mas aberto para conhecer outras áreas também.
 
-Sigam-me!
+Vamos crescer juntos!
 <div >
   <a href="https://github.com/ThorbiasDS">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorbiasDS&layout=compact&langs_count=7&theme=dracula"/>
