@@ -1,10 +1,8 @@
 # Olá, pessoal!
 
-## Meu nome é Tobias, mas podem me chamar de Thorbias! ⚡️
-
-Atualmente sou aluno do Bacharelado em Tecnologia da Informação na UFRN.
-Também atuo como bolsista do Suporte de Redes N1 na Superintendência de Tecnologia da Informação dessa instituição.
-Estou em busca de crescer na área de administração Linux, mas aberto para conhecer outras áreas também.
+## Atualmente sou aluno do Bacharelado em Tecnologia da Informação na UFRN.
+## Também atuo como bolsista do Suporte de Redes N1 na Superintendência de Tecnologia da Informação dessa instituição.
+## Estou em busca de crescer na área de administração Linux, mas aberto para conhecer outras áreas também.
 
 Vamos crescer juntos!
 <div >
